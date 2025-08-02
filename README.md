@@ -7,14 +7,6 @@ An animated 3D birthday card built using **HTML** and **CSS**, perfect for sendi
 ![Preview](images/preview.png) <!-- Replace with actual image path or remove if not available -->
 ![Preview](images/preview1.png) <!-- Replace with actual image path or remove if not available -->
 
-## 📁 Project Structure
-
-Birthday_Card/
-├── index.html # Main HTML structure of the birthday card
-├── style.css # All styling for the card and animation
-├── images/ # (Optional) Store preview images/screenshots
-└── README.md # This file
-
 ## 🛠️ Built With
 
 - **HTML5**
